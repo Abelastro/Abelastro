@@ -311,3 +311,6 @@ Exploring **AI data operations** and **annotation pipelines**
 *Building practical AI systems — from data to deployment*
 
 </div>
+
+<!-- Profile views counter -->
+<img src="https://komarev.com/ghpvc/?username=Abelastro&color=blueviolet&style=flat-square" alt="Profile views" />
