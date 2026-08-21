@@ -8,14 +8,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-<!-- Terminal Identity Card with Profile Photo -->
-<img src="https://terminal-identity-opal.vercel.app/api?name=Abel%20Wondimu&username=Abelastro&role=AI%20Engineer&tagline=Building%20practical%20AI%20systems%20from%20data%20to%20deployment.&theme=amber/solar&avatar=AW&pattern=grid&width=980&height=auto&motion=pulse&showContribs=on&contribTheme=github-dark&contribRange=12w" width="100%" alt="Animated Profile Card"/>
-
-</div>
 
 ---
 
