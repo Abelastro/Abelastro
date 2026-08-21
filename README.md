@@ -10,6 +10,15 @@
 
 ---
 
+<div align="center">
+
+<!-- Terminal Identity Card with Profile Photo -->
+<img src="https://terminal-identity-opal.vercel.app/api?name=Abel%20Wondimu&username=Abelastro&role=AI%20Engineer&tagline=Building%20practical%20AI%20systems%20from%20data%20to%20deployment.&theme=amber/solar&avatar=AW&pattern=grid&width=980&height=auto&motion=pulse&showContribs=on&contribTheme=github-dark&contribRange=12w" width="100%" alt="Animated Profile Card"/>
+
+</div>
+
+---
+
 ## About Me
 
 AI Engineer building practical systems across **machine learning**, **computer vision**, **AI automation**, and **agentic AI**. I focus on taking AI projects from data pipelines through model training to deployed applications and APIs.
@@ -256,16 +265,16 @@ AI-assisted data annotation tool with **pre-labeling**, **human review**, **qual
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abelastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelastro&layout=compact&theme=tokyonight"/>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Abelastro&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
 <div align="center">
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Abelastro/Abel-Wondimu/output/github-snake-dark.svg" width="100%"/>
+<!-- Run the workflow in Actions tab to generate -->
+<img src="https://raw.githubusercontent.com/Abelastro/Abelastro/output/github-snake-dark.svg" width="100%" alt="GitHub Snake"/>
 
 </div>
 
