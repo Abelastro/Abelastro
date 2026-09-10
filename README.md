@@ -62,6 +62,7 @@ Currently building intelligent systems that combine **LLM reasoning** with **det
 #### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -189,60 +190,60 @@ Dataset Export
 <tr>
 <td width="50%">
 
-#### Tomato Disease Agent Chatbot
+#### RAG Knowledge Assistant
 
-Multi-agent AI system combining **RAG chatbot** with **CNN vision** for plant disease diagnosis. Features LangChain RAG pipeline, FAISS vector store, and Flask inference API.
+Retrieval-Augmented Generation system with **multiple chunking strategies**, **hybrid search**, **reranking**, **hallucination detection**, and **evaluation metrics**. 27 tests.
 
-**Tech:** Python, TensorFlow, LangChain, OpenCV, Flask, Streamlit
+**Tech:** Python, NumPy, FastAPI, OpenAI, pytest
 
 </td>
 <td width="50%">
 
 #### AI Research Agent
 
-AI agent that processes research queries through **tool calling** and **structured analysis**. Demonstrates agent architecture with web search, data analysis, and file processing tools.
+AI agent with **tool calling**, **LLM-based planning**, **result validation**, and **code analysis**. Supports streaming responses and structured outputs. 42 tests.
 
-**Tech:** Python, LLM APIs, FastAPI, Pydantic
+**Tech:** Python, FastAPI, OpenAI, Pydantic, pandas
 
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-#### RAG Knowledge Assistant
-
-Retrieval-Augmented Generation system with **document ingestion**, **chunking strategies**, **vector retrieval**, and **grounded responses** with source citations.
-
-**Tech:** Python, LangChain, FAISS/Chroma, FastAPI
-
-</td>
 <td width="50%">
 
 #### CV Quality Inspection
 
-Computer vision system for **object detection**, **defect analysis**, and **quality scoring**. YOLO-based detection with OpenCV preprocessing and FastAPI inference.
+Computer vision system for **object detection**, **defect analysis**, **batch processing**, and **quality scoring** with statistical reporting. 37 tests.
 
-**Tech:** Python, YOLO, OpenCV, FastAPI, Docker
+**Tech:** Python, OpenCV, YOLO, FastAPI, NumPy
+
+</td>
+<td width="50%">
+
+#### Tomato Disease Agent Chatbot
+
+Multi-agent AI system combining **RAG chatbot** with **CNN vision** for plant disease diagnosis. Features LangChain RAG pipeline and Flask inference API.
+
+**Tech:** Python, TensorFlow, LangChain, OpenCV, Flask, Streamlit
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### AI Automation Engine
+#### TypeSafe RAG Client
 
-Workflow orchestration system where **LLM plans** and **deterministic tools execute**. YAML-based workflows with tool selection, execution, and validation.
+TypeScript RAG client with **strict typing**, **chunking strategies**, **vector operations**, and **evaluation metrics**. Full test coverage.
 
-**Tech:** Python, LLM APIs, FastAPI, YAML
+**Tech:** TypeScript, Vitest, OpenAI, zod
 
 </td>
 <td width="50%">
 
-#### AI Annotation Assistant
+#### Code Review Playbook
 
-AI-assisted data annotation tool with **pre-labeling**, **human review**, **quality metrics**, and **dataset export** in YOLO/COCO formats.
+Comprehensive code review guidelines with **quality checklists**, **pattern catalogs**, and **anti-pattern detection**. Practical examples for AI-assisted review.
 
-**Tech:** Python, OpenCV, Streamlit, YOLO/COCO
+**Tech:** Markdown, Python, TypeScript
 
 </td>
 </tr>
@@ -252,7 +253,31 @@ AI-assisted data annotation tool with **pre-labeling**, **human review**, **qual
 
 <div align="center">
 
+### Quality & Testing
+
+</div>
+
+<div align="center">
+
+![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-106+-00C853?style=for-the-badge&logo=pytest&logoColor=white)
+![Coverage](https://img.shields.io/badge/Coverage-Comprehensive-FF6F00?style=for-the-badge)
+
+All projects include **unit tests**, **integration tests**, **CI/CD pipelines**, and **Docker containerization**.
+
+</div>
+
+---
+
+<div align="center">
+
 ### GitHub Activity
+
+</div>
+
+<div align="center">
+
+![Abelastro's github stats](https://github-readme-stats.vercel.app/api?username=Abelastro&show_icons=true&theme=radical)
 
 </div>
 
