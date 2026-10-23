@@ -247,6 +247,46 @@ Comprehensive code review guidelines with **quality checklists**, **pattern cata
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+#### LLM Eval Platform
+
+Enterprise evaluation and regression platform for GenAI apps: **dataset registry**, **7-metric library**, **LLM-as-judge**, **run comparison**, and **CI quality gates** with SQLite persistence. 141 tests.
+
+**Tech:** Python, FastAPI, Pydantic, SQLite, pytest
+
+</td>
+<td width="50%">
+
+#### PR Quality Engine
+
+Deterministic, offline PR review engine with **17 rules** across test quality, security, and complexity. Emits **Markdown**, **SARIF**, and **JSON** reports with severity-gated CI exit codes. 91 tests.
+
+**Tech:** TypeScript, Node.js, Vitest, SARIF
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### Agent Orchestrator
+
+Durable agentic workflow engine with **DAG execution**, **retries with backoff**, **checkpoint/resume**, **human-in-the-loop approval**, and **tracing**. 117 tests.
+
+**Tech:** Python, FastAPI, Pydantic, SQLite, pytest
+
+</td>
+<td width="50%">
+
+#### Test Engineering Examples
+
+Reference implementations of **unit, parametrized, mocked, and edge-case tests** in Python and TypeScript, with a CI pipeline running both suites. 119 tests.
+
+**Tech:** Python, pytest, TypeScript, Vitest
+
+</td>
+</tr>
 </table>
 
 ---
@@ -260,7 +300,7 @@ Comprehensive code review guidelines with **quality checklists**, **pattern cata
 <div align="center">
 
 ![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Tests](https://img.shields.io/badge/Tests-106+-00C853?style=for-the-badge&logo=pytest&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-698-00C853?style=for-the-badge&logo=pytest&logoColor=white)
 ![Coverage](https://img.shields.io/badge/Coverage-Comprehensive-FF6F00?style=for-the-badge)
 
 All projects include **unit tests**, **integration tests**, **CI/CD pipelines**, and **Docker containerization**.
