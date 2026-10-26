@@ -311,18 +311,6 @@ All projects include **unit tests**, **integration tests**, **CI/CD pipelines**,
 
 <div align="center">
 
-### GitHub Activity
-
-</div>
-
-<div align="center">
-
-![Abelastro's github stats](https://github-readme-stats.vercel.app/api?username=Abelastro&show_icons=true&theme=radical)
-
-</div>
-
-<div align="center">
-
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Abelastro&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
